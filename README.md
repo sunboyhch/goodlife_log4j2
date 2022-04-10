@@ -25,8 +25,10 @@ To give you a short summary what we are about to do:
             <artifactId>lombok</artifactId>
             <optional>true</optional>
         </dependency>
+        
  2、Define @Log4j2 on the class
 
  @Log4j2
+ 
  public class Log4j2Controller {
  }    
